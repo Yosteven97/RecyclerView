@@ -1,10 +1,10 @@
-package com.example.recyclerview.Activity
+package com.example.recyclerview.activity
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.recyclerview.Activity.Model.Buku
-import com.example.recyclerview.Adapter.RowListAdapter
+import com.example.recyclerview.activity.Model.Buku
+import com.example.recyclerview.adapter.RowListAdapter
 import com.example.recyclerview.R
 import kotlinx.android.synthetic.main.activity_main.*
 

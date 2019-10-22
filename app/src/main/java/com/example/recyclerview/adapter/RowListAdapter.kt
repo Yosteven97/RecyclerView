@@ -1,10 +1,10 @@
-package com.example.recyclerview.Adapter
+package com.example.recyclerview.adapter
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.example.recyclerview.Activity.Model.Buku
+import com.example.recyclerview.activity.Model.Buku
 import com.example.recyclerview.R
 import kotlinx.android.synthetic.main.adapter_row_list.view.*
 
